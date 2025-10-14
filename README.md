@@ -9,4 +9,7 @@ The project titled “Food Panda Business and Customer Insight” was carried ou
 From the analysis, Teenagers had the highest number of customers (2,062), which was 5.53% higher than Seniors, who had the lowest count at 1,954. Adults followed closely with 1,984 customers. In terms of delivery performance, Delivered orders had the highest average count (412), followed by Delayed (394.40) and Cancelled (393.60). Among the cities, Multan had the highest share of successful deliveries, making up 7.17% of all Delivered orders.
 These findings show that younger customers are more active on the platform, and overall delivery performance is strong, though improvements can be made to reduce delays and cancellations.
 ## Data Source
-The dataset used for this project is publicly available on [Kaggle][Kaggle](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
+The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
+### Tools Used
+***Excel**(Data Cleaning)
+***Powerbi**( Data Visualization)
