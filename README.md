@@ -8,3 +8,6 @@ The main goal of this analysis is to uncover patterns and insights related to cu
 The project titled “Food Panda Business and Customer Insight” was carried out to understand customer behaviour and delivery performance. Using Excel for data preparation and Power BI for visualization, the analysis focused on customer insights by age, gender, churn rate, and city loyalty, as well as patterns in delivery outcomes. The dataset included information such as customer ID, gender, restaurant name, payment method, price, quantity, loyalty points, churn, ratings, and delivery status.
 From the analysis, Teenagers had the highest number of customers (2,062), which was 5.53% higher than Seniors, who had the lowest count at 1,954. Adults followed closely with 1,984 customers. In terms of delivery performance, Delivered orders had the highest average count (412), followed by Delayed (394.40) and Cancelled (393.60). Among the cities, Multan had the highest share of successful deliveries, making up 7.17% of all Delivered orders.
 These findings show that younger customers are more active on the platform, and overall delivery performance is strong, though improvements can be made to reduce delays and cancellations.
+## Data Source
+
+The dataset is availabe on[Kaggle](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
