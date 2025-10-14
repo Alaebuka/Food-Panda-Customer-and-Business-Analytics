@@ -1,2 +1,6 @@
 # Food-Panda-Customer-and-Business-Analytics
 Exploratory insight from Food Panda Customer and Business Analytics
+### Project Introduction
+The “Food Panda Business and Customer Insight” project was developed to explore how customer behaviour and delivery performance affect overall business growth. As Food Panda continues to expand, understanding who the customers are, how they engage with the platform, and how efficiently deliveries are handled becomes essential for improving service quality and customer satisfaction.
+This project uses Excel for data cleaning and preparation, and Power BI for data visualization and analysis. The dataset contains information such as customer ID, gender, restaurant name, payment method, price, quantity, loyalty points, churn, ratings, and delivery status.
+The main goal of this analysis is to uncover patterns and insights related to customer age groups, gender, loyalty levels, and churn, as well as to assess delivery performance across different cities. By analysing these factors, the project provides useful insights that can help the business make better decisions, improve delivery operations, and design effective strategies to retain customers and enhance their experience.
