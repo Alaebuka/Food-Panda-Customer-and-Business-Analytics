@@ -15,7 +15,9 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 
 +Powerbi ( Data Visualization) 
 
-## The data cleaning involves the following steps:
+## Process
 *Verify data for missing value and consistency
 
 *Converting date from text to number format
+
+*PowerBi for Dashboard Visualization
