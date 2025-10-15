@@ -22,7 +22,7 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 
 *PowerBi for Dashboard Visualization
 
-###Key Facts
+### Key Facts
 •	Total number of items Ordered:17,950
 •	Top Dish: Pasta
 •	Churn, Active customers 3016 and Inactive Customers 2,984
