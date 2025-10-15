@@ -11,5 +11,6 @@ These findings show that younger customers are more active on the platform, and 
 ## Data Source
 The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
 ### Tools Used
-+Excel (Data Cleaning)
++Excel (Data Cleaning
+
 +Powerbi ( Data Visualization)
