@@ -61,4 +61,6 @@ Customer Insight
 Restaurant Rank, Sum of quantity, Loyalty Points,Average rating, Cancel Rate,Delay Rtae, Delivery Rate.
 
 ### Dashboard
+<img width="1000" height="557" alt="dashboard_snapshot_1" src="https://github.com/user-attachments/assets/58d92c3f-67f4-42a5-aadf-9b569eca5f8d" />
+
 
