@@ -21,3 +21,13 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 *Converting date from text to number format
 
 *PowerBi for Dashboard Visualization
+
+###Key Facts
+•	Total number of items Ordered:17,950
+•	Top Dish: Pasta
+•	Churn, Active customers 3016 and Inactive Customers 2,984
+•	Revenue: $14.344 million 
+•	Average Rating 3.0/5
+•	Delay Rate 0.33
+•	Cancel Rate 32.80
+
