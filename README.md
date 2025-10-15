@@ -62,9 +62,11 @@ Restaurant Rank, Sum of quantity, Loyalty Points,Average rating, Cancel Rate,Del
 
 ### Dashboard
 <img width="1000" height="557" alt="dashboard_snapshot_1" src="https://github.com/user-attachments/assets/58d92c3f-67f4-42a5-aadf-9b569eca5f8d" />
-# Insight
+Insight
+Female customers made up the largest portion of our customer base, with 2,018 individuals (33.63%), followed closely by males at 2,017 and others at 1,965. Teenagers formed the largest age group with 2,062 customers, followed by adults (1,984) and seniors (1,954).
+In terms of delivery performance, Delivered orders had the highest count at 2,060, while Delayed and Cancelled orders followed closely with 1,972 and 1,968, respectively. Among the cities, Multan contributed 7.17% of all Delivered orders and also recorded the highest number of customers (1,256). Lahore came next with 1,217 customers, followed by Peshawar (1,195), Islamabad (1,187), and Karachi (1,145).
 
-Females Gender had the highest Count of customers at 2,018, followed by Male at 2,017 and Other at 1,965.  Female accounted for 33.63% of our customer. Teenagers make up the largest age group with 2,062 individuals, followed closely by Adults at 1,984 and Seniors at 1,954.
-Delivered had the highest total Count of delivery status at 2,060, followed by Delayed at 1972 and cancelled at 1968.Multan in Delivery status Delivered made up 7.17% of Count of delivery status. Multan has the highest number of customers at 1,256, followed closely by Lahore with 1,217. Peshawar (1,195), Islamabad (1,187), and Karachi (1,145)
+
+
 
 
