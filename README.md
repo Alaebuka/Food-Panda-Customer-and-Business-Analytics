@@ -42,6 +42,7 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 ### Questions Answered
 
 Customer Insight
+
 • Customers Age Distribution
 
 • Customwers breakdown by Gender
