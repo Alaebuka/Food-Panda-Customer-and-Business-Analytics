@@ -13,4 +13,8 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 ### Tools Used
 +Excel (Data Cleaning
 
-+Powerbi ( Data Visualization)
++Powerbi ( Data Visualization) 
+
+## The data cleaning involves the following steps:
+*Verify data for missing value and consistency
+*Converting date from text to number format
