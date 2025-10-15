@@ -39,3 +39,24 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 
 •	Cancel Rate 32.80
 
+### Questions Answered
+Customer Insight
+• Customers Age Distribution
+
+• Customwers breakdown by Gender
+
+• Customers by City
+
+### Revenue and Delivery insight
+
+• Revenue by City
+
+• Revenue by Dish
+
+• Payment Method
+
+### Table
+Restaurant Rank, Sum of quantity, Loyalty Points,Average rating, Cancel Rate,Delay Rtae, Delivery Rate.
+
+### Dashboard
+
