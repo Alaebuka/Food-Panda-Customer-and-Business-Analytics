@@ -40,6 +40,7 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 •	Cancel Rate 32.80
 
 ### Questions Answered
+
 Customer Insight
 • Customers Age Distribution
 
