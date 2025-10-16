@@ -73,12 +73,6 @@ In terms of delivery performance, Delivered orders had the highest count at 2,06
 
 <img width="999" height="562" alt="dashboard_snapshot_2" src="https://github.com/user-attachments/assets/e88dfd19-2707-4cfe-abb1-8737806d0d6e" />
 
-**Insight:**
-Your grammar is mostly **correct**, but the paragraph has **repetition** — the same sentence about Pasta, Sandwiches, Pizza, and Burgers appears **three times**. That makes it sound unpolished for a project insight.
-
-Here’s the **cleaned-up and grammatically correct version**:
-
----
 **Insight**
 Multan recorded the highest revenue at **3,782**, with **Lahore** close behind at **3,686**. **Peshawar** and **Islamabad** also showed similar revenue levels of **3,568** and **3,551**, while **Karachi** had the lowest at **3,363**.
 
