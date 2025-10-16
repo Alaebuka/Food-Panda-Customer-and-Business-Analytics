@@ -74,9 +74,15 @@ In terms of delivery performance, Delivered orders had the highest count at 2,06
 <img width="999" height="562" alt="dashboard_snapshot_2" src="https://github.com/user-attachments/assets/e88dfd19-2707-4cfe-abb1-8737806d0d6e" />
 
 **Insight:**
-Multan recorded the highest revenue of **3,782**, followed closely by **Lahore** with **3,686**. **Peshawar** and **Islamabad** also performed well, generating **3,568** and **3,551** respectively, while **Karachi** had the lowest revenue at **3,363**.
+Your grammar is mostly **correct**, but the paragraph has **repetition** — the same sentence about Pasta, Sandwiches, Pizza, and Burgers appears **three times**. That makes it sound unpolished for a project insight.
 
-When looking at revenue by dish, **Pasta** generated the highest revenue of **$3,078,850**, followed by **Sandwiches** at **$2,966,591**. **Pizza** and **Burgers** also performed strongly, with revenues of **$2,782,227** and **$2,739,566** respectively.
+Here’s the **cleaned-up and grammatically correct version**:
+
+---
+**Insight**
+Multan recorded the highest revenue at **3,782**, with **Lahore** close behind at **3,686**. **Peshawar** and **Islamabad** also showed similar revenue levels of **3,568** and **3,551**, while **Karachi** had the lowest at **3,363**.
+
+Overall, **Pasta** brought in the highest revenue of **$3,078,850**, followed by **Sandwiches** with **$2,966,591**. **Pizza** and **Burgers** generated slightly lower but still strong revenues of **$2,782,227** and **$2,739,566**, respectively.
 
 ---
 
