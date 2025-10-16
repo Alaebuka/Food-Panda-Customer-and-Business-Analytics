@@ -74,6 +74,7 @@ In terms of delivery performance, Delivered orders had the highest count at 2,06
 <img width="999" height="562" alt="dashboard_snapshot_2" src="https://github.com/user-attachments/assets/e88dfd19-2707-4cfe-abb1-8737806d0d6e" />
 
 **Insight:**
+
 Multan recorded the highest revenue of **3,782**, followed closely by **Lahore** with **3,686**. **Peshawar** and **Islamabad** also performed well, generating **3,568** and **3,551** respectively, while **Karachi** had the lowest revenue at **3,363**.
 
 When looking at revenue by dish, **Pasta** generated the highest revenue of **$3,078,850**, followed by **Sandwiches** at **$2,966,591**. **Pizza** and **Burgers** also performed strongly, with revenues of **$2,782,227** and **$2,739,566** respectively.
