@@ -69,7 +69,6 @@ In terms of delivery performance, Delivered orders had the highest count at 2,06
 
 <img width="999" height="562" alt="dashboard_snapshot_2" src="https://github.com/user-attachments/assets/e88dfd19-2707-4cfe-abb1-8737806d0d6e" />
 
-Here’s your arranged insight written in simple, clear, and human-friendly language while keeping your hierarchy:
 
 ---
 
@@ -80,7 +79,6 @@ When looking at revenue by dish, **Pasta** generated the highest revenue of **$3
 
 ---
 
-Would you like me to add a short **recommendation** to go with this insight (e.g., what action should be taken based on the findings)?
 
 
 
