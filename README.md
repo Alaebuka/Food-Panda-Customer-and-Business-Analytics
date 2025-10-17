@@ -94,3 +94,13 @@ Recommendation
 5. Pizza Hut should focus on improving its customer satisfaction to match its high order volume, perhaps by enhancing service quality or consistency. Burger King should investigate the reasons behind its high cancel rate—such as delays or inaccurate orders—and take corrective measures. KFC’s delivery efficiency can serve as a model for other restaurants to improve overall customer experience and reliability.
 
 ---
+
+### **Conclusion**
+
+The **Food Panda Business and Customer Insight** project provided a clear understanding of customer behavior and delivery patterns across different segments. By analyzing data using **Excel** and **Power BI**, the project uncovered valuable insights that can support better business decisions.
+
+The findings showed that **Teenagers make up the largest customer group**, followed by Adults and Seniors, suggesting that younger customers are more active on the platform. In terms of delivery performance, **Delivered orders ranked highest**, showing strong operational efficiency, while **Multan contributed 7.17% of all Delivered orders**, indicating a high delivery success rate in that city.
+
+Overall, the analysis highlights opportunities for **targeted marketing toward younger customers** and for **further improvement in reducing delayed and cancelled deliveries**. These insights can help Food Panda strengthen customer satisfaction, loyalty, and overall business performance.
+
+---
