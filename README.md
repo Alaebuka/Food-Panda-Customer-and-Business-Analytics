@@ -11,16 +11,16 @@ These findings show that younger customers are more active on the platform, and 
 ## Data Source
 The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
 ### Tools Used
-+Excel (Data Cleaning
+•Excel (Data Cleaning
 
-+Powerbi ( Data Visualization) 
+•Powerbi ( Data Visualization) 
 
 ## Process
-*Verify data for missing value and consistency
+•Verify data for missing value and consistency
 
-*Converting date from text to number format
+•Converting date from text to number format
 
-*PowerBi for Dashboard Visualization
+•PowerBi for Dashboard Visualization
 
 ### Key Facts
 • Total customers 6000
@@ -72,8 +72,8 @@ In terms of delivery performance, Delivered orders had the highest count at 2,06
 ---
 
 <img width="999" height="562" alt="dashboard_snapshot_2" src="https://github.com/user-attachments/assets/e88dfd19-2707-4cfe-abb1-8737806d0d6e" />
+Insight
 
-**Insight**
 Multan recorded the highest revenue at **3,782**, with **Lahore** close behind at **3,686**. **Peshawar** and **Islamabad** also showed similar revenue levels of **3,568** and **3,551**, while **Karachi** had the lowest at **3,363**.
 
 Overall, **Pasta** brought in the highest revenue of **$3,078,850**, followed by **Sandwiches** with **$2,966,591**. **Pizza** and **Burgers** generated slightly lower but still strong revenues of **$2,782,227** and **$2,739,566**, respectively.
